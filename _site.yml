@@ -1,7 +1,7 @@
-name: "boztdk"                               # CHANGE HERE 
+name: "Buket"                               # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "boztdk"                             # CHANGE HERE 
+  title: "Buket"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
