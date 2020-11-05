@@ -10,7 +10,7 @@ navbar:
     - text: "About me"
       icon: fa-user 
       href: about.html
-    - text: "My Project"
+    - text: "My PhD Project"
       icon: fa-book
       href: project.html    
       
