@@ -2,7 +2,7 @@ name: "Buket"                               # CHANGE HERE
 output_dir: "."
 navbar:
   #title: "Buket"                            # Puts a icon with my name on the right corner
-  #type: inverse                              # Changes the color of the bar
+  type: inverse                              # Changes the color of the bar
   left:
     - text: "Home"
       icon: fa-home
@@ -26,5 +26,5 @@ navbar:
       href: https://github.com/boztdk       # CHANGE HERE 
 output:
   html_document:
-    theme: cosmo
+    theme: lumen
     highlight: textmate
