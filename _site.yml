@@ -13,6 +13,10 @@ navbar:
     - text: "CV"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "My Project"
+      icon: fa-book
+      href: project.html    
+      
   right:
     - text: "Contact me"
       icon: fa-envelope-o

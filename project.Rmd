@@ -1,0 +1,22 @@
+---
+title: "My PhD project"
+---
+
+Here is a short description of my PhD project.
+
+### Background
+
+
+
+
+The attenuation of association in a sibling design is often attributed to removal of unmeasured confounding, but this interpretation may be naïve. Therefore, we aim to investigate the sibling design from a methodological perspective in relation to observational data. We will take starting point in the clinical question: does use of antidepressants during pregnancy have a causal effect on the risk of attention deficit hyperactivity disorder (ADHD) in offspring? 
+
+
+### Aims of the project
+The specific aims are to:
+
+* Examine the impacts of non-shared unmeasured confounding, misclassification, sibling carryover and mediators on the sibling design.
+
+*	Examine the causal contrast of antidepressants use during pregnancy and the risk of ADHD in offspring by using a classical cohort design and a sibling design.
+
+*	Explore the performance of the sibling design beyond the case of antidepressants and ADHD. 
