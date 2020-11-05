@@ -13,6 +13,9 @@ navbar:
     - text: "My PhD Project"
       icon: fa-book
       href: project.html    
+    - text: "Dissemination"
+      icon: fa-comments
+      href: dissemination.html 
       
   right:
     - text: "CV"
