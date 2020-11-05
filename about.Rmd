@@ -18,6 +18,6 @@ Other experiences;
 
 * Bachelor's degree in Mathematical Modelling from Aarhus University (2013). 
 
-![](Buket Ozturk_PURE.jpg){width=20%}
-
-knitr::include_graphics("Buket Ozturk_PURE.jpg").
+```{r, echo=FALSE, out.width="20%", fig.align = 'right'}
+knitr::include_graphics("Buket Ozturk_PURE.jpg")
+```
