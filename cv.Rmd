@@ -2,7 +2,8 @@
 title: "CV"
 ---
 
-To download my CV please click <a href="Buket_Ozturk_CV_ENG.pdf#" class="download" title="Download CV as PDF">here</a>.	
+To download my CV please click 
+<a href="Buket_Ozturk_CV_ENG.pdf#" class="download" title="Download CV as PDF">here</a>.	
 
 Thank you for your interest!
 
