@@ -1,23 +1,23 @@
 name: "Buket"                               # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Buket"                            # CHANGE HERE 
-  type: inverse
+  #title: "Buket"                            # Puts a icon with my name on the right corner
+  #type: inverse                              # Changes the color of the bar
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "About me"
       icon: fa-user 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
     - text: "My Project"
       icon: fa-book
       href: project.html    
       
   right:
+    - text: "CV"
+      icon: fa-file-pdf-o
+      href: cv.html
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:bozt@clin.au.dk          # CHANGE HERE 
