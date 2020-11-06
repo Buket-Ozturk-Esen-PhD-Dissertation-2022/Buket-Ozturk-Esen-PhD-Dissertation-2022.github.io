@@ -17,11 +17,17 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <aside align="left">
-# 2020/11/05
+
+# Recent entry
+
+*Entries treat my current activities, discussion of new and old topics and papers in the field of biostatistics and epidemiology.*
+
+
+## 2020/11/05
 
 Hello world! This is my personal github page. 
 
-Read my other updates <a href="updates.html" target="_blank">here</a>.
+Read my previous entries <a href="entries.html" target="_blank">here</a>.
 </aside> 
 
 
