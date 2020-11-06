@@ -16,9 +16,14 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <aside align="left">
-<img src="cartoon.png" width=400>
+<img src="cartoon.png" width=200>
 </aside>
 
+
+
+<aside align="left">
+This is a paragraph.
+</aside>
 
 
 
