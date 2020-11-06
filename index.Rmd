@@ -5,12 +5,12 @@ title: "Welcome to my website!"
 This website is under construction.
 
 
-```{r, fig.align="center", out.width="80%", echo=FALSE}
+```{r, fig.align="left", out.width="50%", echo=FALSE}
 knitr::include_graphics("cartoon.png")
 ```
 
 
-<aside>
-  <a class="twitter-timeline" data-width="300" data-height="800" href="https://twitter.com/boztdk?ref_src=twsrc%5Etfw">Tweets by boztdk</a> <script 
+<aside align="right">
+  <a class="twitter-timeline" data-width="250"  data-height="800" href="https://twitter.com/boztdk?ref_src=twsrc%5Etfw">Tweets by boztdk</a> <script 
 async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
