@@ -15,9 +15,9 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
-<aside align="left">
+<div align="left">
 <img src="cartoon.png" width=400>
-</aside>
+</div>
 
 
 <div align="left">
