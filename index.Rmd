@@ -16,8 +16,6 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 
 
-<aside align="left">
-
 # Recent entry
 
 *Entries treat my current activities, discussion of new and old topics and papers in the field of biostatistics and epidemiology.*
@@ -28,7 +26,7 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 Hello world! This is my personal github page.
 
 *Read my previous entries <a href="entries.html" target="_blank">here</a>.*
-</aside> 
+
 
 
 
