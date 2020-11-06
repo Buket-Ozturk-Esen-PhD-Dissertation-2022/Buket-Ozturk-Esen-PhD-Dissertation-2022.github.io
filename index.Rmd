@@ -11,11 +11,14 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 
 
-<aside>
-  <img src="cartoon.png" width=650>
+<aside align="left">
+  <img src="cartoon.png" width=500>
 </aside>
 
 
+<aside align="left">
+This is a paragraph.
+</aside>
 
 
 
