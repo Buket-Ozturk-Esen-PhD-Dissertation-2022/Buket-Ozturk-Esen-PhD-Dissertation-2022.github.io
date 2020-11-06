@@ -25,9 +25,9 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## 2020/11/05
 
-Hello world! This is my personal github page. 
+Hello world! This is my personal github page.
 
-Read my previous entries <a href="entries.html" target="_blank">here</a>.
+*Read my previous entries <a href="entries.html" target="_blank">here</a>.*
 </aside> 
 
 
