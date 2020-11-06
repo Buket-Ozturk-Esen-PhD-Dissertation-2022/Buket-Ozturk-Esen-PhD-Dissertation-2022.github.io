@@ -16,9 +16,6 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </aside>
 
 
-<p align="left">
-This is a paragraph.
-</p>
 
 
 
