@@ -17,8 +17,12 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <aside align="left">
-This is a paragraph.
-</aside>
+# 2020/11/05
+
+Hello world! This is my personal github page. 
+
+Read my other updates <a href="updates.html" target="_blank">here</a>.
+</aside> 
 
 
 
