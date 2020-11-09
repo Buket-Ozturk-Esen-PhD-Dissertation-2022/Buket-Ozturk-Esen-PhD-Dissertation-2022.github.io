@@ -4,6 +4,8 @@ title: "My PhD project"
 
 Here is a short description of my PhD project.
 
+<p>&nbsp;</p>
+
 ### Background
 
 A frequently used design in epidemiologic studies is the classical cohort design, where unexposed represent the counterfactual experience of the exposed in the absence of the exposure. An alternative design that controls for potential unmeasured confounding is the sibling design. In this design, the counterfactual disease experience of the exposed subjects is represented by their unexposed siblings. By this, the estimate of the causal contrast is free from confounding by time independent traits shared by the siblings that may be difficult or impossible to measure in a given study, such as rearing practices, socioeconomic characteristics, or genetics.
@@ -23,6 +25,9 @@ The sibling design is, however, subject to several potential biases:
 The existing methodological studies regarding sibling design are dealing with these potential biases from a theoretical perspective. No study, to our knowledge, has addressed these potential biases of the sibling design in relation to observational studies. It is thus a major question of interest, whether the reported estimates from the sibling design in various studies are unconfounded estimates of the true causal contrasts.
 
 In summary, the attenuation of association in a sibling design is often attributed to removal of unmeasured confounding, but this interpretation may be naïve. Therefore, we aim to investigate the sibling design from a methodological perspective in relation to observational data. We will take starting point in the clinical question: does use of antidepressants during pregnancy have a causal effect on the risk of attention deficit hyperactivity disorder (ADHD) in offspring? 
+
+
+<p>&nbsp;</p>
 
 
 ### Aims of the project

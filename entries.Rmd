@@ -2,9 +2,9 @@
 title: "Entries"
 ---
 
+<p>&nbsp;</p>
 
 
-
-# 2020/11/01
+### 2020/11/01
 
 This is another entry.

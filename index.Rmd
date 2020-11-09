@@ -5,6 +5,9 @@ title: "Welcome to my website!"
 This website is under construction.
 
 
+<p>&nbsp;</p>
+
+
 <aside align="right">
   <a class="twitter-timeline" data-width="200"  data-height="800" href="https://twitter.com/boztdk?ref_src=twsrc%5Etfw">Tweets by boztdk</a> <script 
 async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -15,13 +18,18 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   <img src="cartoon.png" width=500>
 </aside>
 
+<p>&nbsp;</p>
+
 
 # Recent entry
 
 *Entries treat my current scientific activities, discussions of new and old topics and papers in the field of biostatistics and epidemiology.*
 
 
-## 2020/11/05
+<p>&nbsp;</p>
+
+
+### 2020/11/05
 
 **Knowledge shared is knowledge squared**
 
@@ -31,8 +39,7 @@ Thank you for reading!
 
 Buket &#214;zt&#252;rk Esen
 
-
-
+<p>&nbsp;</p>
 
 *Read my previous entries <a href="entries.html" target="_blank">here</a>.*
 
