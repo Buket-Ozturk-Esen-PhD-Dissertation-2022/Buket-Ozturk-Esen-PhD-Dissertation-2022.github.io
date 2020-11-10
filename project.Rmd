@@ -14,7 +14,7 @@ Researchers often conduct a classical cohort design and a sibling design to esti
 
 The sibling design is, however, subject to several potential biases:
 
-*First*, if siblings are more similar with regard to the exposure than with regard to non‐shared unmeasured confounders, the estimate of the causal contrast in the sibling design will always be more biased than the estimate of the causal contrast in the classical cohort design. 
+*First*, if siblings are more similar with regard to the exposure than with regard to non-shared unmeasured confounders, the estimate of the causal contrast in the sibling design will always be more biased than the estimate of the causal contrast in the classical cohort design. 
 
 *Second*, the dilution of the estimates due to misclassification in exposure will be greater in the sibling design than in the classical cohort design. 
 
@@ -28,7 +28,6 @@ In summary, the attenuation of association in a sibling design is often attribut
 
 
 <p>&nbsp;</p>
-
 
 ### Aims of the project
 The specific aims are to:
