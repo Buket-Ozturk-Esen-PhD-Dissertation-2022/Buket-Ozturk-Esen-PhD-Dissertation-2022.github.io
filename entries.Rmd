@@ -5,4 +5,4 @@ title: "Previous entries"
 <p>&nbsp;</p>
 
 
-*No previous entries.*
+*No previous entry exists.*
