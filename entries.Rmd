@@ -1,10 +1,8 @@
 ---
-title: "Entries"
+title: "Previous entries"
 ---
 
 <p>&nbsp;</p>
 
 
-### 2020/11/01
-
-This is another entry.
+*No previous entries.*
