@@ -8,13 +8,7 @@ This website is under construction.
 <img style="float: left;" src="cartoon.png">
 
 
-<div>
-  <a class="twitter-timeline" data-width="200"  data-height="800" href="https://twitter.com/boztdk?ref_src=twsrc%5Etfw">Tweets by boztdk</a> <script 
-async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-
-
+<div style="text-align: left">
 
 ### 2020/11/05
 
@@ -29,6 +23,15 @@ Buket &#214;zt&#252;rk Esen
 <p>&nbsp;</p>
 
 *Read my previous entries <a href="entries.html" target="_blank">here</a>.*
+
+</div>
+
+
+<div>
+  <a class="twitter-timeline" data-width="200"  data-height="800" href="https://twitter.com/boztdk?ref_src=twsrc%5Etfw">Tweets by boztdk</a> <script 
+async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 
 
 
