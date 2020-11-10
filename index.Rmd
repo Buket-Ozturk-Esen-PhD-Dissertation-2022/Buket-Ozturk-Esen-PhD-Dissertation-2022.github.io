@@ -8,7 +8,9 @@ title: "Welcome to my website!"
 <img style="float: left;" src="cartoon.png">
 
 
-<div style="text-align: left">
+
+<div style="float: left;">
+
 
 ### 2020/11/05
 
@@ -27,10 +29,14 @@ Buket &#214;zt&#252;rk Esen
 </div>
 
 
+
 <div>
   <a class="twitter-timeline" data-width="200"  data-height="800" href="https://twitter.com/boztdk?ref_src=twsrc%5Etfw">Tweets by boztdk</a> <script 
 async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+
+
 
 
 
