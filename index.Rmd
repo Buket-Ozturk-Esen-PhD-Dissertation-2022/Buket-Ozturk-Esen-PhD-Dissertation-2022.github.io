@@ -2,7 +2,7 @@
 title: "Welcome to my website!"
 ---
 
-
+<p>&nbsp;</p>
 
 <!-- Twitter timeline --> 
 
@@ -24,7 +24,7 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Recent entry
 
-*Entries treat my current scientific activities, discussionsof new and old topics and papers*   
+*Entries treat my current scientific activities, discussions of new and old topics and papers*   
 *in the field of biostatistics and epidemiology.*
 
 
@@ -39,7 +39,7 @@ are new in the field. However, knowledge can be shared on several levels of comp
 appropriate and new ways to disseminate the knowledge that we gain, so that our research and finding reach a   
 broader audience. With these entries I aim to provide knowledge sharing in an simple and introducing manner.   
 The entries serve to introduce and discuss topics, concepts and exciting papers from the field of   
-biostatistics and epidemiology and give the reader a base and a interest to further investigate the subjects.   
+biostatistics and epidemiology and give the reader a base and an interest to further investigate the subjects.   
 Whether you are from the field of biostatistics and epidemiology or just a curious reader, I hope that these   
 entries will help you understand the basic concepts and the research that the we do in this field.
 
