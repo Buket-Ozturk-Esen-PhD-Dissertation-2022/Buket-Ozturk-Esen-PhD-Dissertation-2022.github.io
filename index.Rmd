@@ -25,7 +25,8 @@ async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # Recent entry
 
-*Entries treat my current scientific activities, discussions of new and old topics and papers in the field of biostatistics and epidemiology.*
+*Entries treat my current scientific activities, discussionsof new and old topics and papers*   
+*in the field of biostatistics and epidemiology.*
 
 
 ### 2020/11/05
