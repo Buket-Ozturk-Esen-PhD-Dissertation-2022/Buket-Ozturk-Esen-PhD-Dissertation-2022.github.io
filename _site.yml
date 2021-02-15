@@ -16,6 +16,9 @@ navbar:
     - text: "Dissemination"
       icon: fa-comments
       href: dissemination.html 
+    - text: "Preliminary results"
+      icon: fa-lightbulb
+      href: results.html 
       
   right:
     - text: "CV"
