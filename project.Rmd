@@ -37,3 +37,10 @@ The specific aims are to:
 *	Examine the causal contrast of antidepressants use during pregnancy and the risk of ADHD in offspring by using a classical cohort design and a sibling design.
 
 *	Explore the performance of the sibling design beyond the case of antidepressants and ADHD. 
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<p align="center">
+  <img src="cartoon.png" width=600>
+</p>
