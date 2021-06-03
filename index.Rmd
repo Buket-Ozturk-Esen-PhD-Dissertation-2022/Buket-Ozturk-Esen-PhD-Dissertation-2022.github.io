@@ -6,7 +6,7 @@ title: "Welcome to my website!"
 <p>&nbsp;</p>
 
 
-The website in under construction :-)
+The website in under construction :)
 
 
   
