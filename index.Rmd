@@ -9,7 +9,9 @@ title: "Welcome to my website!"
 The website in under construction :)
 
 
-  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
   
 
 <div>
