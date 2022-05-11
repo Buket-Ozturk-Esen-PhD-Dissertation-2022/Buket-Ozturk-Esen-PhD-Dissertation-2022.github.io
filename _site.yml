@@ -19,6 +19,9 @@ navbar:
     - text: "Entries"
       icon: fa-lightbulb
       href: entries.html 
+    - text: "Preliminary Results"
+      icon: fa-lightbulb
+      href: results.html 
       
   right:
     - text: "CV"
