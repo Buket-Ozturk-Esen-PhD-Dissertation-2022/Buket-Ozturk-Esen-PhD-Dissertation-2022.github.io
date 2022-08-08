@@ -6,36 +6,6 @@ navbar:
   left:
     - text: "Home"
       icon: fa-home
-      href: index.html
-    - text: "About me"
-      icon: fa-user 
-      href: about.html
-    - text: "My PhD Project"
-      icon: fa-book
-      href: project.html    
-    - text: "Dissemination"
-      icon: fa-comments
-      href: dissemination.html 
-    - text: "Entries"
-      icon: fa-lightbulb
-      href: entries.html 
-    - text: "Preliminary Results"
-      icon: fa-lightbulb
-      href: results.html 
-      
-  right:
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
-    - text: "E-mail"
-      icon: fa-envelope-o
-      href: mailto:bozt@clin.au.dk          # CHANGE HERE
-    - text: "Twitter"
-      icon: fa-twitter
-      href: https://twitter.com/boztdk      # CHANGE HERE
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/boztdk       # CHANGE HERE 
 output:
   html_document:
     theme: lumen

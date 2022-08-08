@@ -1,5 +1,0 @@
----
-title: "Preliminary results"
----
-
-<a href="3Dplot.html" target="_blank">3D-plot</a>
