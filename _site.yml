@@ -1,3 +1,4 @@
+
 name: "Buket"                               # CHANGE HERE 
 output_dir: "."
 navbar:
@@ -8,11 +9,16 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "3D Plot"
-      icon: fa-home
+      icon: fa-lightbulb
       href: 3D_plot.html
 output:
   html_document:
     theme: lumen
     highlight: textmate
+    
+    
+    
+    
+
     
     

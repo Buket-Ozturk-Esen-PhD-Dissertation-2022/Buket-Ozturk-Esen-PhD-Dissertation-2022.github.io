@@ -1,10 +1,10 @@
 ---
-title: "Welcome to my website!"
+title: "Buket Öztürk Esen PhD Dissertation 2022"
 ---
 <div>
 
 <div>
-<p> The website in under construction :) </p>
+<p> This website was constructed as an addition to the PhD dissertation by Buket Öztürk Esen.</p>
 </div>
 
 
