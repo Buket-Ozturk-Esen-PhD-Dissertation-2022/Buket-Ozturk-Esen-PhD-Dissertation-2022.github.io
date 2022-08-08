@@ -7,6 +7,9 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "3D Plot"
+      icon: fa-home
+      href: 3D_plot.html
 output:
   html_document:
     theme: lumen
