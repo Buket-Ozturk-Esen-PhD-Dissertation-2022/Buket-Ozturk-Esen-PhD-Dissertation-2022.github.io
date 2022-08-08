@@ -4,7 +4,7 @@ title: "Buket Öztürk Esen PhD Dissertation 2022"
 <div>
 
 <div>
-<p> This website was constructed as an addition to the PhD dissertation by Buket Öztürk Esen.</p>
+<p> This website is constructed as an addition to the PhD dissertation by Buket Öztürk Esen.</p>
 </div>
 
 
